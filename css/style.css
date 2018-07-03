@@ -70,4 +70,8 @@ body {
 	  }
   
 	}
-  }
+	}
+	
+	#code {
+		text-transform: none;
+	}
